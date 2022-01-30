@@ -1,5 +1,5 @@
 ### Hi there 👋
-<iframe src="https://gifer.com/embed/U1U" width=480 height=199.680 frameBorder="0" allowFullScreen></iframe><p>
+<img src="https://gifer.com/embed/U1U" width=480 height=199.680 frameBorder="0" >
 <img src="https://i.gifer.com/U1U.mp4" width="600" height="200">
 <!--
 **Ozberksenn/Ozberksenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
