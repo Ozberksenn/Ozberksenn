@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.gifer.com/U1U.gif" width="600" height="200">
+<img src="https://gifer.com/embed/U1U" width="600" height="200">
 <!--
 **Ozberksenn/Ozberksenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
