@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://tenor.com/IE5L.gif" width="600" height="200">
+<img src="https://tenor.com/view/reality-the-matrix-has-you-gif-11705179" width="600" height="200">
 <!--
 **Ozberksenn/Ozberksenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
