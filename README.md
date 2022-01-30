@@ -1,4 +1,4 @@
-### Hi there 👋
+### <b> Hi there. I'm Özberk. </b>👋
 
 <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="600" height="200">
 <!--
