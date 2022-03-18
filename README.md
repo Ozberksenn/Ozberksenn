@@ -19,7 +19,7 @@
                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
                  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> 
                  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[PostgreSQL].svg" />
-                 
+                 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" />][youtube]
                  
 </p>
 </div>
