@@ -1,5 +1,3 @@
-### <b> Hi there. I'm Özberk. </b>👋
-
 <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" align="right">
 
 <h1 align="left">Hi there, I'm Özberk Şen <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
