@@ -21,7 +21,7 @@
                  <img src="https://unpkg.com/simple-icons@v6/icons/python.svg" alt="python" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> 
                   <img src="https://unpkg.com/simple-icons@v6/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> </a><a href="https://www.postgresql.org/about/policies/trademarks/" target="_blank"> 
                  <img src="https://unpkg.com/simple-icons@v6/icons/bootstrap.svg" alt="BootStrap" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> 
-                 
+                  <img src="https://unpkg.com/simple-icons@v6/icons/github.svg" alt="GitHub" width="40" height="40"/> </a><a href="" target="_blank"> 
                  
                  
                  
