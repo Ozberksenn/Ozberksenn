@@ -20,7 +20,7 @@
                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
                  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> 
                  <img src="https://unpkg.com/simple-icons@v6/icons/python.svg" alt="python" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> 
-                  <img src="https://unpkg.com/simple-icons@v6/icons/python.svg" alt="python" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank"> 
+                  <img src="https://unpkg.com/simple-icons@v6/icons/PostgreSQL.svg" alt="python" width="40" height="40"/> </a><a href="" target="_blank"> 
                  
                  
                  
