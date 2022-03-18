@@ -7,8 +7,7 @@
 <div size='25px'> 
 <p align='left'>
 <h2 align='left'> Contact me! </h2>
-<a href="https://twitter.com/yusufeneszenler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusufeneszenler" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eneszenler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneszenler" height="30" width="40" /></a></a>
+<a href="https://www.linkedin.com/in/özberk-şen-95442b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozberksenn" height="30" width="40" /></a></a>
 </p>
 </div>
 
