@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" align="right">
 
 <h1 align="left">Hi there, I'm Özberk Şen <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
-<h3 align="left">I am a final year student at Akdeniz University. I am currently doing an internship at hotech. I am a passionate software developer who wants to improve herself.
+<h3 align="left">I am a final year student at Akdeniz University. I am currently doing an internship at Hotech. I am a passionate software developer who wants to improve herself.
 </h3>
 
 <div size='25px'> 
