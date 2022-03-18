@@ -22,21 +22,6 @@
                  
 </p>
 </div>
-
-<h3>My GitHub Stats :chart_with_upwards_trend:</h3>
-<p align="center"><details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=eneszenler&theme=tokyonight" >
-</details>
-
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneszenler&langs_count=10&theme=tokyonight&layout=compact" alt="eneszenler :: Top Langs" />
-</details></p>
-          
-<h3>Profile Visits</h3>
-
-![visitors](https://komarev.com/ghpvc/?username=eneszenler&color=blue)
 <!--
 **Ozberksenn/Ozberksenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
