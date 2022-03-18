@@ -8,6 +8,7 @@
 <p align='left'>
 <h2 align='left'> Contact me! </h2>
 <a href="https://www.linkedin.com/in/özberk-şen-95442b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozberksenn" height="30" width="40" /></a></a>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link)
 </p>
 </div>
 
