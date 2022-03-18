@@ -23,7 +23,16 @@
                   <img src="https://unpkg.com/simple-icons@v6/icons/github.svg" alt="GitHub" width="40" height="40"/> </a><a href="" target="_blank"> 
                  
                  
-                 
+  <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
+<p align="center"><details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=eneszenler&theme=tokyonight" >
+</details>
+
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneszenler&langs_count=10&theme=tokyonight&layout=compact" alt="eneszenler :: Top Langs" />
+</details></p>
                  
                 
                  
