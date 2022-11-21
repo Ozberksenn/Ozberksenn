@@ -21,7 +21,10 @@
                  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="40" height="40"/>
+            <img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png"  width="40" height="40"/>
+             <img src="https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png"  width="40" height="40"/>
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+            <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png"  width="40" height="40"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
           <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github" width="40" height="40"/> </a></p>
 </p>
