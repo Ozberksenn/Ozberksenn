@@ -1,6 +1,6 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84c2c23f-97f9-4c50-acb6-0be4165f58c4/davcclo-0463fa59-e751-40c9-98bc-d2e72ddb46c1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0YzJjMjNmLTk3ZjktNGM1MC1hY2I2LTBiZTQxNjVmNThjNFwvZGF2Y2Nsby0wNDYzZmE1OS1lNzUxLTQwYzktOThiYy1kMmU3MmRkYjQ2YzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xs7YtyA8Y8N8HMpJA8D_udvY5oR-wwpxb2Ir2Fk1QXs" align="right" width="50%" >
 
-<h1 align="left">Hi there, I'm Özberk Şen <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+<h1 align="left">Hi there, I'm Özberk <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 <h3 align="left">Mobile Developer <br/> </br>I am a passionate software developer who wants to improve himself in the field of Mobile
 Application development.
 </h3>
