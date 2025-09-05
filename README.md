@@ -24,7 +24,8 @@
             <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="redux" width="40" height="40"/>
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-            <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="redux" width="40" height="40"/> 
+            <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="mssql" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/>
   <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github" width="40" height="40"/> </a></p>
 </p>
 </div>
